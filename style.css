@@ -1,6 +1,6 @@
 html *
 {
-	 font-family: 'Andale mono', monospace;
+	 font-family: 'Courier', monospace;
 }
 
 img
@@ -10,17 +10,17 @@ img
 
 body 
 {
-  background-color: white;
+  background-color: rgb(42,161,172);
 }
 
 div 
 {
-  background-color: rgb(174,198,207);
+  background-color: rgb(42,161,172);
 }
 
 hr
 {
-  border-top: 5px solid black;
+  border-top: 5px solid #800517;
 }
 
 .post-content {
@@ -56,9 +56,10 @@ body {
 }
 
 #nav {
-    background-color: #222;
+    background-color: black;
 }
 #nav_wrapper {
+    background-color: black;
     width: 960px;
     margin: 0 auto;
     text-align: left;
@@ -79,7 +80,7 @@ body {
 #nav ul li a, visited {
     color: #CCC;
     display: block;
-    padding: 15px;
+    padding: 0px;
     text-decoration: none;
 }
 #nav ul li:hover ul {
