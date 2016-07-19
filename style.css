@@ -322,6 +322,10 @@ kbd{padding:.125rem .25rem 0;margin:0}
   margin-top: 0.3cm
 }
 
+.white-space-vsmall{
+  margin-top: 0.15cm
+}
+
 .large-icon{
   font-size: 40px
 }
