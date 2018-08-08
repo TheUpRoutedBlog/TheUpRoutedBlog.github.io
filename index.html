@@ -44,7 +44,48 @@ div.container {
 }      
       
       </style>
+<style>
+body, html {
+    height: 100%;
+    margin: 0;
+}
 
+.hero-image {
+  background-image: url("Photographs/index/yogyakarta-treehouse.JPG.");
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.hero-text button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+}
+
+.hero-text button:hover {
+  background-color: #555;
+  color: white;
+}
+</style>
+      
+      
 </head>
 
 
@@ -81,7 +122,12 @@ i.fi-social-tumblr{color:navy;font-size:2rem;}
     </div>
   </div>
 </div>
- 
+  <div class="hero-text">
+    <h1 style="font-size:50px">UpRouted</h1>
+    <p>Budget Travel Blog</p>
+    <button>Latest Blog Post</button>
+  </div>
+</div> 
 <div class="row">
   <div class="small-12 medium-12 large-4 columns centered">
   <img src="Photographs/logo.jpg" alt="MAIN LOGO" style="width: 100%; height: 150px">
