@@ -1,0 +1,479 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>TheUpRoutedBlog | Paris, France</title>
+<link rel="stylesheet" href="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
+<link href='http://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://cdnjs.cloudflare.com/ajax/libs/fancybox/1.3.4/jquery.fancybox-1.3.4.css" />
+<style type="text/css">
+    a.fancybox img {
+            border: none;
+            box-shadow: 0 1px 7px rgba(0,0,0,0.6);
+            -o-transform: scale(1,1); -ms-transform: scale(1,1); -moz-transform: scale(1,1); -webkit-transform: scale(1,1); transform: scale(1,1); -o-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -webkit-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out;
+        } 
+    a.fancybox:hover img {
+            position: relative; z-index: 999; -o-transform: scale(1.03,1.03); -ms-transform: scale(1.03,1.03); -moz-transform: scale(1.03,1.03); -webkit-transform: scale(1.03,1.03); transform: scale(1.03,1.03);
+        }
+</style>
+ 
+</head>
+
+
+<body>
+
+<div class="top-bar show-for-small-only" id="main-menu">
+<ul class="vertical text-center menu">
+<li class="menu-text">TheUpRoutedBlog</li>
+<li><a href="../blogPostArchive.html">BLOG POSTS</a></li>
+<li><a href="../ourRoutes.html">OUR ROUTES</a></li>
+<li><a href="../journeySoFar.html">THE JOURNEY SO FAR</a></li>
+<li><a href="../videoArchive.html">VIDEO CHANNEL</a></li>
+<li><a href="../photographyArchive.html">PHOTOGRAPHY ARCHIVE</a></li>
+</ul>
+</div>
+
+<div class="top-bar show-for-medium-only" id="main-menu">
+<ul class="vertical text-center menu">
+<li class="menu-text">TheUpRoutedBlog</li>
+<li><a href="../blogPostArchive.html">BLOG POSTS</a></li>
+<li><a href="../ourRoutes.html">OUR ROUTES</a></li>
+<li><a href="../journeySoFar.html">THE JOURNEY SO FAR</a></li>
+<li><a href="../videoArchive.html">VIDEO CHANNEL</a></li>
+<li><a href="../photographyArchive.html">PHOTOGRAPHY ARCHIVE</a></li>
+</ul>
+</div>
+
+<div class="top-bar show-for-large" id="main-menu">
+<ul class="expanded large-horizontal text-center menu">
+<li class="menu-text">TheUpRoutedBlog</li>
+<li><a href="../blogPostArchive.html">BLOG POSTS</a></li>
+<li><a href="../ourRoutes.html">OUR ROUTES</a></li>
+<li><a href="../journeySoFar.html">THE JOURNEY SO FAR</a></li>
+<li><a href="../videoArchive.html">VIDEO CHANNEL</a></li>
+<li><a href="../photographyArchive.html">PHOTOGRAPHY ARCHIVE</a></li>
+</ul>
+</div>
+ 
+
+
+<div class="row">
+<p class="lead" align="justify">
+Welcome to UpRouted, our blog dedicated to all things travel! Here, you can read about our experiences, laugh at our disasters and learn 
+from both our triumphs and misfortunes. We are two money-conscious backpackers (and a not-so-money-conscious mouse) desperate to explore 
+as much of the world as our pockets will allow. To date we have visited over countries across 6 continents. Our latest adventure is an 
+<b>overland journey from our home in the UK, to the shores of Australia.</b> We hope you enjoy reading about our experiences as much as we 
+enjoy writing about them.
+</p>
+</div>
+
+<div class="row">
+  <div class="medium-8 columns">
+  <iframe src="https://www.google.com/maps/d/embed?mid=1Ssegfr6RBC-BONNZS3BJrEfyP_o" width="100%" height="385" id="where"></iframe>
+  </div>
+  <div class="medium-4 columns">
+  <p class="white-space"></p>
+    <div class="row small-up-2">
+      <div class="column text-center">
+      <p class="large-icon">
+      <i class="fi-play"></i>
+      </p>
+      <h6>406</h6>
+      <p><small>DAYS ON THE ROAD</small></p>
+      <br>
+      </div>
+      <div class="column text-center">
+      <p class="white-space"></p>
+      <h4>UPROUTED OVERLAND STATS BOX</h4>
+      <br>
+      </div>
+    </div>
+    <div class="row small-up-3">
+      <div class="column text-center">
+      <p class="large-icon">
+      <i class="fi-blind"></i>
+      </p>
+      <h6>36421</h6>
+      <p><small>CROW FLIES OVERLAND KM</small></p>
+      <br>
+      </div>
+      <div class="column text-center">
+      <p class="large-icon">
+      <i class="fi-web"></i>
+      </p>
+      <h6>28</h6>
+      <p><small>COUNTRIES THIS TRIP</small></p>
+      <br>
+      </div>
+      <div class="column text-center">
+      <p class="large-icon">
+      <i class="fi-map"></i>
+      </p>
+      <h6>165</h6>
+      <p><small>CITES AND TOWNS</small></p>
+      <br>
+      </div>
+    </div>
+    <p class="white-space-small"></p>
+  </div>
+</div>
+<hr>
+
+<div class="row">
+<h4 style="margin: 0;" class="text-center" id="photos">LATEST PHOTOGRAPHS <small>(Click to enlarge).</small></h4>
+</div>
+<hr>
+<div class="row small-up-1 medium-up-3 large-up-5 small-centered medium-centered large-centered columns">
+  <div class="column">
+  <br>
+  <img class="fancybox" src="Photographs/index/IMG_2711.JPG" data-big="Photographs/index/IMG_2711.JPG" 
+  title="A stunning and secluded spot to wake up in. Shame about the altitude sickness, Sichuan. 12/July/2017" 
+  alt="Sichuan Himalayas Camping">
+  </div>
+  <div class="column">
+  <br>
+  <img class="fancybox" src="Photographs/index/IMG_2670.JPG" data-big="Photographs/index/IMG_2670.JPG"
+  title="Sometimes it's better to get lost. Decending to our camp spot at 5000m, Sichuan. 11/July/2017" 
+  alt="Hiking in the Himalayas">
+  </div>
+  <div class="column text-center">
+  <br>
+  <img class="fancybox" src="Photographs/index/IMG_2607.JPG" data-big="Photographs/index/IMG_2607.JPG" 
+  title="Possibly the best noodles yet, freshly pulled with a spicy yak broth and served bubbling. A nice intro to Tibetan cuisine, 
+  Shangri-La. 10/July/2017" 
+  alt="Chinese yak noodle soup">
+  </div>
+  <!--
+  <div class="column text-center">
+  <br>
+  <img style="width: 100px ; height: 153px" class="fancybox" src="Photographs/index/IMG_9545.JPG" data-big="Photographs/index/IMG_9545.JPG"
+  title="Relaxing in the park, Baku. 18/September/2016" alt="LATEST PHOTO 2">
+  </div>--> 
+  <div class="column">
+  <br>
+  <img class="fancybox" src="Photographs/index/IMG_2566.JPG" data-big="Photographs/index/IMG_2566.JPG" 
+  title="Torrential rain made for a cloudy Tiger Leaping Gorge, but still a nice hike, Yunnan. 07/July/2017" 
+  alt="Tiger Leaping Gorge">
+  </div>
+  <div class="column">
+  <br>
+  <img class="fancybox" src="Photographs/index/IMG_2492.JPG" data-big="Photographs/index/IMG_2492.JPG" 
+  title="Enjoying the Chinese architecture in Dali, Yunnan. 05/July/2017" 
+  alt="Dali, Yunnan, China">
+  </div>
+</div>
+<div class="row small-up-1 medium-up-3 large-up-5 small-centered medium-centered large-centered columns">
+  <div class="column">
+  <br>
+  <img class="fancybox" src="Photographs/index/IMG_2481.JPG" data-big="Photographs/index/IMG_2481.JPG" 
+  title="What to do on day one in China? Drink tea of course! Jinghong. 01/July/2017" 
+  alt="Drinking tea in China">
+  </div>
+  <div class="column">
+  <br>
+  <img class="fancybox" src="Photographs/index/IMG_2459.JPG" data-big="Photographs/index/IMG_2459.JPG"
+  title="One of our only picture of Laos, crossing the border to China. Luang Namtha. 01/July/2017" 
+  alt="Laos/China border">
+  </div>
+  <div class="column text-center">
+  <br>
+  <img class="fancybox" src="Photographs/index/IMG_2450.JPG" data-big="Photographs/index/IMG_2450.JPG" 
+  title="Another opportunity to squeeze in more Pad Thai during our flying visit to the North, Chang Mai. 27/June/2017" 
+  alt="Pad Tkai in Chiang Mai">
+  </div>
+  <div class="column">
+  <br>
+  <img class="fancybox" src="Photographs/index/IMG_2446.JPG" data-big="Photographs/index/IMG_2446.JPG" 
+  title="Enjoying the shores of Inle Lake, Myanmar. 25/June/2017" 
+  alt="Inle Lake, Myanmar">
+  </div>
+  <div class="column">
+  <br>
+  <img class="fancybox" src="Photographs/index/IMG_2403.JPG" data-big="Photographs/index/IMG_2403.JPG" 
+  title="A friendly farmer moving produce by buffalo, Shan State. 23/June/2017" alt="Shan State, Myanmar">
+  </div>
+</div>
+<div class="row">
+<br>
+<h4 style="margin: 0;" class="text-right"><a href="photographyArchive.html">MORE PHOTOS!</a></h4>
+</div>
+<hr>
+
+
+<div class="row">
+<h4 style="margin: 0;" class="text-center" id="posts">LATEST BLOG POSTS</h4>
+</div>
+<hr>
+<div class="row columns small-centered">
+  <div class="small-12 medium-12 large-7 columns" style="border-right: 1px solid #E3E5E8;">
+  <article>
+    <div class="row">
+      <div class="small-12 medium-12 large-6 columns">
+      <p><img class="index-blog" src="Photographs/index/IMG_3134.JPG" alt="Pyongyang Military Parade, North Korea" style="width: 100%"></p>
+      <p>
+      <span><i class="fi-torso"> By Bri&nbsp;&nbsp;</i></span>
+      <span><i class="fi-calendar"> 13/November/17 &nbsp;&nbsp;</i></span>
+      <span><i class="fi-map"> North Korea&nbsp;&nbsp;</i></span>
+      </p>
+      </div>
+      <div class="small-12 medium-12 large-6 columns">
+      <h2><a href="BlogPosts/171110_DPRK.html">North Korea: A Peak Behind the Modern-day Iron Curtain</a></h2>
+      <p align="justify"><small>
+      It's fair to say a summer holiday in North Korea isn't everybody's cup of tea. It's... unconventional. It's... to be honest it's just a little bit mental. But it is 
+      100% fascinating. Even if you're only mildly curious about the world's most controversial country I'd recommend giving this a read. But then again I'm biased. I'm 
+      just showing you the side of the DPRK I want you to see...   
+      </small></p>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="small-12 medium-12 large-6 columns">
+      <p><img class="index-blog" src="Photographs/BlogPosts/IMG_1155.JPG" alt="BLOG IMAGE" style="width: 100%"></p>
+      <p>
+      <span><i class="fi-torso"> By Bri&nbsp;&nbsp;</i></span>
+      <span><i class="fi-calendar"> 18/June/17 &nbsp;&nbsp;</i></span>
+      <span><i class="fi-map"> Kyrgyzstan&nbsp;&nbsp;</i></span>
+      </p>
+      </div>
+      <div class="small-12 medium-12 large-6 columns">
+      <h5><a href="BlogPosts/170610_ThreeLakesTwo.html">Curse of the Lakes II: Stood up at the mosque</a></h5>
+      <p align="justify"><small>
+      After realising that the snow was settling in for the winter over the Kyrgyz highlands, perhaps the best course of action was not to 
+      go in search of more frosty, remote alpine lakes. But that is what we did. This time, we somewhat expected that not everything would 
+      go according to plan. We didn't expect, however, for our plans to be torn to shreds in a matter of hours... 
+      </small></p>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="small-12 medium-12 large-6 columns">
+      <p><img class="index-blog" src="Photographs/index/IMG_1340.JPG" alt="BLOG IMAGE" style="width: 100%"></p>
+      <p>
+      <span><i class="fi-torso"> By Bri&nbsp;&nbsp;</i></span>
+      <span><i class="fi-calendar"> 31/May/17 &nbsp;&nbsp;</i></span>
+      <span><i class="fi-map"> Indonesia&nbsp;&nbsp;</i></span>
+      </p>
+      </div>
+      <div class="small-12 medium-12 large-6 columns">
+      <h5><a href="BlogPosts/170531_IndonesianConversations.html">Indecipherable Indonesia</a></h5>
+      <p align="justify"><small>
+      It's almost time for us to leave Indonesia, and as much as we are craving readily available bread, beer and trains, there are many 
+      things we are seriously going to miss. While here, we have conquered the mighty sambal, learnt enough Bahasa Indonesia to convince 
+      people we understand them and made many delightful new friends. There were a few things, however, that completely went over our 
+      heads...
+      </small>
+      </p>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="small-12 medium-12 large-6 columns">
+      <p><img class="index-blog" src="Photographs/index/IMG_1127.JPG" alt="BLOG IMAGE" style="width: 100%"></p>
+      <p>
+      <span><i class="fi-torso"> By Bri&nbsp;&nbsp;</i></span>
+      <span><i class="fi-calendar"> 17/May/17 &nbsp;&nbsp;</i></span>
+      <span><i class="fi-map"> Kyrgyzstan&nbsp;&nbsp;</i></span>
+      </p>
+      </div>
+      <div class="small-12 medium-12 large-6 columns">
+      <h5><a href="BlogPosts/170503_ThreeLakes.html">Curse of the Lakes I: Let it snow</a></h5>
+      <p align="justify"><small>
+      Tourists, backpackers, hikers, armchair travellers, nomads, campers, hippies, gap yah toffs, explorers, adventurers and holiday goers;
+      we all love a bit of a mountain lake. Well, at least I'm sure we would, had we ever successfully managed to see one. We have been very
+      lucky with our travel plans so far (mostly by pure fluke), but you can't have everything. Some things you are just cursed never to 
+      see...    
+      </small>
+      </p>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="small-12 medium-12 large-6 columns">
+      <p><img class="index-blog" src="Photographs/index/Bubbles.png" alt="BLOG IMAGE" style="width: 100%; height: 225px"></p>
+      <p>
+      <span><i class="fi-torso"> By Bri&nbsp;&nbsp;</i></span>
+      <span><i class="fi-calendar"> 24/April/17 &nbsp;&nbsp;</i></span>
+      <span><i class="fi-map"> Timor-Leste&nbsp;&nbsp;</i></span>
+      </p>
+      </div>
+      <div class="small-12 medium-12 large-6 columns">
+      <h5><a href="BlogPosts/170413_AtauroIsland.html">Atauro in Coral, Guns and Fishing Boats</a></h5>
+      <p align="justify"><small>
+      On an island where favours carry more monetary value amongst locals than legal tender, the solitary police officer's hardest task is 
+      staying awake on duty in the face of the blazing midday sun and that being late for school is as much a problem for the teachers as 
+      it is for kids, it wasn't too difficult to forget the rest of the world exists...  
+      </small>
+      </p>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="small-12 medium-12 large-6 columns">
+      <p><img class="index-blog" src="Photographs/index/IMG_9718.JPG" alt="BLOG IMAGE" style="width: 100%"></p>
+      <p>
+      <span><i class="fi-torso"> By Bri&nbsp;&nbsp;</i></span>
+      <span><i class="fi-calendar"> 04/Apr/17 &nbsp;&nbsp;</i></span>
+      <span><i class="fi-map"> Uzbekistan&nbsp;&nbsp;</i></span>
+      </p>
+      </div>
+      <div class="small-12 medium-12 large-6 columns">
+      <h5><a href="BlogPosts/170308_Kungrad.html">Kungrad in Smugglers, Pleas and the Aral Sea</a></h5>
+      <p align="justify">
+      It was clear from the border that Uzbekistan was going to be a lot of... challenges. Black money, bribery and a recently deceased 
+      dictator were the tip of the iceberg for this Stan. Needless to say, we didn't spend much time being bored...
+      </p>
+      </div>
+    </div>
+    <hr>
+   
+    <h4 style="margin: 0;" class="text-left show-for-large"><a href="blogPostArchive.html">PREVIOUS BLOG POSTS</a></h4>
+    <p class="white-space"></p>
+
+    </article>
+  </div>
+ <div class="small-12 medium-12 large-5 columns">
+ <aside>
+    <h4 align="center">OUR TWO CENTS</h4>
+    <hr>
+    <div class="row column centered text-center">
+       <div class="column">
+       <div class="callout">
+       <a href="BlogPosts/170625_MyanmarBorder.html"><p class="lead"><small>South Myanmar Survival Guide: Travel via the Ranong/Kawthoung
+       border June 2017
+       </small>
+       <p><img src="Photographs/index/IMG_1952.JPG" alt="170625_LEAD"></p>
+       </p></a>
+       <p class="subheader">
+       <span><i class="fi-torso"> By Bri&nbsp;&nbsp;</i></span>
+       <span><i class="fi-map"> Myanmar&nbsp;&nbsp;</i></span>
+       <span><i class="fi-calendar"> 29/June/17 &nbsp;&nbsp;</i></span>
+       </p>
+       </div>
+       </div>
+     <div class="row">
+       <div class="column">
+       <div class="callout">
+       <a href="BlogPosts/170420_Pelni.html"><p class="lead"><small>Pelni Survival Guide
+       </small>
+       <p><img src="Photographs/index/IMG_0852.JPG" alt="170420_LEAD"></p>
+       </p></a>
+       <p class="subheader">
+       <span><i class="fi-torso"> By Bri&nbsp;&nbsp;</i></span>
+       <span><i class="fi-map"> Indonesia&nbsp;&nbsp;</i></span>
+       <span><i class="fi-calendar"> 03/May/17 &nbsp;&nbsp;</i></span>
+       </p>
+       </div>
+       </div>
+       <div class="column">
+       <div class="callout">
+       <a href="BlogPosts/170424_TLCheapskates.html"><p class="lead"><small>Cheapskates in Timor-Leste: Price guide to Dili, Atauro Island and Oecussi</small>
+       <p><img src="Photographs/index/GOPR0830.JPG" alt="170424_LEAD"></p>
+       </p></a>
+       <p class="subheader">
+       <span><i class="fi-torso"> By Alex&nbsp;&nbsp;</i></span>
+       <span><i class="fi-map"> Timor-Leste&nbsp;&nbsp;</i></span>
+       <span><i class="fi-calendar"> 29/April/17 &nbsp;&nbsp;</i></span>
+       </p>
+       </div>
+       </div>
+     </div>
+     <hr>
+     <h4 style="margin: 0;" class="text-left show-for-large"><a href="twoCentsArchive.html">MORE OF OUR TWO CENTS</a></h4>
+     <h4 style="margin: 0;" class="text-left show-for-small-only"><a href="blogPostArchive.html">MORE BLOG POSTS</a></h4>
+     <h4 style="margin: 0;" class="text-left show-for-medium-only"><a href="blogPostArchive.html">MORE BLOG POSTS</a></h4>
+     <br>
+     <br>
+
+    <div class="callout" style="background: #e6e6e6">
+    <h4 align="center">CLICK TO FOLLOW US</h4>
+    <hr>
+
+    <div class="row small-up-2 medium-up-2 large-up-2">
+      <div class="column text-center">
+      <a target="_blank" title="follow us on instagram" href="http://www.instagram.com/uprouted.co.uk"><img alt="follow us on instagram" src="Photographs/index/instagram.png" border=0></a>
+      </div>
+      <div class="column text-center">
+   <a target="_blank" title="Stalk us on pinterest" href="http://www.pinterest.com/UpRoutedBlog"><img alt="follow us on Pinterest" img src="Photographs/index/pinterest-icon.png"></a>
+      </div>
+    </div>
+    </div>
+    <br>
+     </aside>
+   </div>
+</div>
+<br>
+
+
+<footer>
+
+<div class="row expanded callout secondary">
+  <div class="small-12 medium-12 large-6 columns">
+  <img src="Photographs/index/FooterMap.png" style="width: 100% ; height: 225px">
+  </div>
+  <div class="small-12 medium-12 large-6 columns">
+  <p class="white-space"></p>
+  <h5>THANKS FOR VISITING!</h5>
+  <p align="justify">
+    If you liked our site please pass on our URL! If you have suggested additions, amendments or indeed anything at all, please do feel
+    free to contact us. Any feedback is welcomed and greatly appreciated.
+  <br>
+  <br>
+  <h5 align="right"><b>TheUpRoutedBlog 2017</b></h5>
+  </p>
+  </div>
+</div>
+
+</footer>
+
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="foundation.js"></script>
+<script>
+$(document).foundation();
+</script>
+<script type="text/javascript" src="https://intercom.zurb.com/scripts/zcom.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="slick/slick.min.js"></script>
+<script type="text/javascript" src="slick/slick.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    $('.single-item').slick({
+    autoplay: true,
+    dots:     true,
+    });
+    });
+</script>
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/fancybox/1.3.4/jquery.fancybox-1.3.4.pack.min.js"></script>
+<script type="text/javascript">
+$(function($){
+    var addToAll = false;
+    var gallery = true;
+    var titlePosition = 'inside';
+    $(addToAll ? 'img' : 'img.fancybox').each(function(){
+      var $this = $(this);
+      var title = $this.attr('title');
+      var src = $this.attr('data-big') || $this.attr('src');
+      var a = $('<a href="#" class="fancybox"></a>').attr('href', src).attr('title', title);
+      $this.wrap(a);
+      });
+    if (gallery)
+    $('a.fancybox').attr('rel', 'fancyboxgallery');
+    $('a.fancybox').fancybox({
+titlePosition: titlePosition
+});
+    });
+$.noConflict();
+</script>
+
+</body>
+
+</html>
+
