@@ -26,7 +26,7 @@ body, html {
 }
 
 .hero-image {
-  background-image: src="Photographs/index/khiva-medrasa-uzbekistan-ME.JPG";
+  background-image: src="Photographs/index/timor-leste-dili-sunset-beach.JPG";
   height: 30%;
   background-position: center;
   background-repeat: no-repeat;
@@ -90,10 +90,10 @@ i.fi-social-tumblr{color:navy;font-size:2rem;}
 
         
   <div class="hero-image">
-        <img src="Photographs/index/khiva-medrasa-uzbekistan-ME.JPG" alt="Medrassa in Khiva, Uzbekistan" height="20%" width="100%" align="center">
+        <img src="Photographs/index/timor-leste-dili-sunset-beach.JPG" alt="Orange Golden Sunset over Dili Coast, Timor-Leste" height="20%" width="100%" align="center">
   <div class="hero-text">
-    <h1 style="font-size:50px" "font-size:10vw;">Budget Travel Tips</h1>
-        <h2><span style="color:white" text-shadow: 2px 2px #A9A9A9>&#x1F30E;Tips & Tricks for Cheap Travel &#x1F30D;</i></span></h2>
+    <h1 style="font-size:50px" "font-size:10vw;">Country Guides</h1>
+        <h2><span style="color:white" text-shadow: 2px 2px #A9A9A9>&#x1F30E; Everything you don't need to know about your potential travel destinations &#x1F30D;</i></span></h2>
     <a href="http://uprouted.co.uk/BlogPosts/170625_MyanmarBorder.html"><button>Latest Blog Post</button></a>
   </div>
 </div> 
